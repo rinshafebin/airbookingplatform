@@ -71,7 +71,7 @@ AirBooking is a full-stack flight reservation system that demonstrates comprehen
 ![Admin Dashboard](frontend/src/assets/admin/dashboard.png)
 
 #### User Management  
-![User Management](frontend/src/assets/admin/usermanagement.png)
+![User Management](frontend/src/assets/admin/usermanagemnt.png)
 
 #### Flight Inventory  
 ![Flight Inventory](frontend/src/assets/admin/flights.png)
