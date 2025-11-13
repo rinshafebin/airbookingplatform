@@ -1,0 +1,9 @@
+# airbooking/celery.py
+import os
+from celery import Celery
+
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "airbooking.settings")
+
+app = Celery("airbooking")
+app.config_from_object("django.conf:settings", namespace="CELERY")
+app.autodiscover_tasks()
