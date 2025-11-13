@@ -38,6 +38,48 @@ A comprehensive flight booking platform demonstrating full-stack development cap
 
 AirBooking is a full-stack flight reservation system that demonstrates comprehensive capabilities across backend API development, frontend user interfaces, and database design. The platform implements a user approval workflow, real-time flight status tracking, and secure JWT-based authentication with OTP-based password reset.
 
+## Screenshots
+
+### User Side
+
+#### Landing Page  
+![Landing Page](frontend/src/assets/user/landingpage.png)  
+
+#### Login Page  
+![Login Page](frontend/src/assets/user/login.png)
+
+#### Register Page  
+![Register Page](frontend/src/assets/user/register.png)
+
+#### Home Page  
+![Home Page](frontend/src/assets/user/home.png)
+
+#### Bookings Page  
+![Bookings Page](frontend/src/assets/user/bookings.png)
+
+#### My Trips Page  
+![My Trips Page](frontend/src/assets/user/mytrips.png)
+
+#### Flight Status Page  
+![Flight Status Page](frontend/src/assets/user/flightstatus.png)
+
+---
+
+### Admin Side
+
+#### Admin Dashboard  
+![Admin Dashboard](frontend/src/assets/admin/dashboard.png)
+
+#### User Management  
+![User Management](frontend/src/assets/admin/usermanagement.png)
+
+#### Flight Inventory  
+![Flight Inventory](frontend/src/assets/admin/flights.png)
+
+#### Booking Management  
+![Booking Management](frontend/src/assets/admin/bookings.png)
+
+
 ### Objective
 
 This project showcases professional-grade full-stack development practices including:
