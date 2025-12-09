@@ -60,7 +60,7 @@ AirBooking is a full-stack flight reservation system that demonstrates comprehen
 #### My Trips Page  
 ![My Trips Page](frontend/src/assets/user/mytrips.png)
 
-#### Flight Status Page  
+#### Flight Status Page 
 ![Flight Status Page](frontend/src/assets/user/flightstatus.png)
 
 ---
